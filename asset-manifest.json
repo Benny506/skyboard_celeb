@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/skyboard_celeb/static/css/main.4d3527f8.css",
-    "main.js": "/skyboard_celeb/static/js/main.323d13cc.js",
+    "main.css": "/skyboard_celeb/static/css/main.71ccf52d.css",
+    "main.js": "/skyboard_celeb/static/js/main.f3940b9c.js",
     "static/js/453.3d5501c9.chunk.js": "/skyboard_celeb/static/js/453.3d5501c9.chunk.js",
     "static/media/SourceSans.ttf": "/skyboard_celeb/static/media/SourceSans.f0bd6d1942b9ef5e8026.ttf",
     "static/media/ludoGame.png": "/skyboard_celeb/static/media/ludoGame.91f66a8f33d77e1a4f5f.png",
@@ -55,12 +55,12 @@
     "static/media/ActiveLaptopicon.svg": "/skyboard_celeb/static/media/ActiveLaptopicon.e11ad78b26e404d742c129efeb690eb7.svg",
     "static/media/ChessActiveicon.svg": "/skyboard_celeb/static/media/ChessActiveicon.614a5bdb7f123da7c5c48a5dbc9cb04c.svg",
     "static/media/Active.svg": "/skyboard_celeb/static/media/Active.04cf8d1955d357d60f61fc5842e31858.svg",
-    "main.4d3527f8.css.map": "/skyboard_celeb/static/css/main.4d3527f8.css.map",
-    "main.323d13cc.js.map": "/skyboard_celeb/static/js/main.323d13cc.js.map",
+    "main.71ccf52d.css.map": "/skyboard_celeb/static/css/main.71ccf52d.css.map",
+    "main.f3940b9c.js.map": "/skyboard_celeb/static/js/main.f3940b9c.js.map",
     "453.3d5501c9.chunk.js.map": "/skyboard_celeb/static/js/453.3d5501c9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d3527f8.css",
-    "static/js/main.323d13cc.js"
+    "static/css/main.71ccf52d.css",
+    "static/js/main.f3940b9c.js"
   ]
 }
